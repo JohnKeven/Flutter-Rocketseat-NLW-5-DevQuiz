@@ -18,5 +18,5 @@ dev_dependencies:
 flutter:
   assets:
     - assets/images/
-
+    - assets/database/
   uses-material-design: true
