@@ -2,7 +2,7 @@ import 'dart:convert';
 
 class AnswerModel {
   final String title;
-  final bool? isRight;
+  final bool isRight;
 
   AnswerModel({required this.title, this.isRight = false});
 
